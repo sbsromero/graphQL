@@ -1,3 +1,3 @@
-## Repositorio de estudio de graphQL
+## Api Hola Mundo
 
-Este es un repositorio para aprender sobre el desarrollo de APis usando graphQL
+Api desarrollada para familiarizarse con los conceptos de GraphQL, usa graphiQL.
