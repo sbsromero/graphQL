@@ -1,4 +1,5 @@
-## Aplicación de academia
+## Aplicación de academia online
+Usa apollo server express
 
 # Esta aplicación implementa:
 
